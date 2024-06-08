@@ -1,11 +1,3 @@
-<table>
-  <tr>
-    <td>
-      <a href="https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html" target="_blank"><img src="preview.jpg"></a>
-       <h3>Corona-free</h3>
-    </td>
-  </tr>
-</table>
 
 <h1>CoronaAdmin-Free-Admin-Template</h1>
 Corona Admin is a free responsive admin template built with Bootstrap 5. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
